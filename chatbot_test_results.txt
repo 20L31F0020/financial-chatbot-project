@@ -1,0 +1,22 @@
+
+Financial Chatbot Test Results
+
+Test 1:
+User: What is Microsoft's total revenue?
+Chatbot: Microsoft's average total revenue (2023–2025) was $246.23 billion.
+
+Test 2:
+User: Which company showed the strongest growth?
+Chatbot: Microsoft showed the strongest overall growth from 2023–2025.
+
+Test 3:
+User: Which company is the most stable?
+Chatbot: Apple appeared the most stable due to consistent profitability.
+
+Test 4:
+User: Which company is the most volatile?
+Chatbot: Tesla showed the most volatility due to stagnant revenue and declining net income.
+
+Test 5:
+User: Help
+Chatbot: Displayed available predefined questions successfully.

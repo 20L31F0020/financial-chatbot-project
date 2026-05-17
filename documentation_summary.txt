@@ -1,0 +1,37 @@
+
+Financial Chatbot Prototype Documentation
+
+Project Objective:
+This chatbot prototype was designed to provide simplified financial analysis for Microsoft, Tesla, and Apple (2023–2025) using predefined user queries.
+
+How It Works:
+- Uses Python if-elif-else logic
+- Matches exact predefined financial questions
+- Returns financial insights based on Task 1 analysis
+
+Supported Queries:
+- Revenue questions
+- Growth questions
+- Profitability questions
+- Stability/volatility questions
+
+Strengths:
+- Beginner-friendly
+- Easy to test
+- Uses real financial analysis
+- Demonstrates chatbot fundamentals
+
+Limitations:
+- No machine learning
+- No natural language processing
+- Cannot answer unexpected questions
+- Requires exact query phrasing
+
+Future Improvements:
+- Add NLP support
+- Build Flask web app
+- Connect live financial APIs
+- Expand query flexibility
+
+Conclusion:
+This prototype demonstrates how financial trend analysis can be converted into a functional AI-style chatbot for investor support and educational purposes.
